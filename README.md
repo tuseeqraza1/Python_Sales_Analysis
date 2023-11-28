@@ -23,7 +23,7 @@ pip install numpy pandas matplotlib seaborn
 ```
 ### Download the dataset:
 
-![Sales Data.csv](https://github.com/tuseeqraza1/Python_Sales_Analysis/blob/main/Sales%20Data.csv)
+[Sales Data.csv](https://github.com/tuseeqraza1/Python_Sales_Analysis/blob/main/Sales%20Data.csv)
 
 ## Code Structure
 The code is structured as follows:
